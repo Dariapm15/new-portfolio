@@ -143,3 +143,6 @@ p {
 .info h3 {
   text-align: left;
 }
+.nav-item {
+  padding: 0 10px;
+}
