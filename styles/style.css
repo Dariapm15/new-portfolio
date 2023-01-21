@@ -99,9 +99,7 @@ p {
 }
 .email-link {
   display: flex;
-  justify-content: center;
-  color: var(--primary-color);
-  font-size: 28px;
+
   text-decoration: none;
 }
 
@@ -137,4 +135,11 @@ p {
 .content p {
   font-size: 14px;
   margin: 0;
+}
+.info p {
+  font-size: 14px;
+  text-align: left;
+}
+.info h3 {
+  text-align: left;
 }
